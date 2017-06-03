@@ -39,4 +39,4 @@ have decided to rate only on some, but not all, criteria.
 * For the computation of PS, students must determine, by looking at the worst cases, the sizes of variables
 involved in the computation and to do the proper “adjustments” before executing the division operation.
 
-![alt text](https://github.com/ChristianPalmiero/Fabulous-University-of-No-Nerds/Example.png "Example")
+![alt text](https://github.com/ChristianPalmiero/Fabulous-University-of-No-Nerds/blob/master/Example.png "Example")
